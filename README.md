@@ -4,8 +4,8 @@
 ###  🔭 I’m currently working @ Newslaundry.com as a FullStack Development Intern
 ###  📫 Reach me at [agnibesh.dev](https://agnibesh.dev/)
 ---
-### 🌱 Github Stats
-![github stats](https://github-readme-stats.vercel.app/api?username=MightyPhoenix&count_private=true&show_icons=true&bg_color=315,48c6ef,6f86d6&title_color=ffffff&text_color=ffffff&icon_color=ee609c)
+<!--### 🌱 Github Stats
+![github stats](https://github-readme-stats.vercel.app/api?username=MightyPhoenix&count_private=true&show_icons=true&bg_color=315,48c6ef,6f86d6&title_color=ffffff&text_color=ffffff&icon_color=ee609c)-->
 ### ⚡ My most used Languages 
 <!--![github stats](https://github-readme-stats.vercel.app/api?username=MightyPhoenix&show_icons=true&theme=radical)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MightyPhoenix&layout=compact)](https://github.com/MightyPhoenix)
