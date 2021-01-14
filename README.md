@@ -10,3 +10,5 @@
 ### ⚡ My most used Languages 
 <!--![github stats](https://github-readme-stats.vercel.app/api?username=MightyPhoenix&show_icons=true&theme=radical)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MightyPhoenix&layout=compact)](https://github.com/MightyPhoenix)
+<br/>
+![](https://komarev.com/ghpvc/?username=MightyPhoenix)
