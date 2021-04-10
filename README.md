@@ -3,7 +3,7 @@
 
 ###  🔭 I’m currently working @ Newslaundry.com as a FullStack Development Intern
 ###  🔭 DSC CIEM - Tech Lead | 30DaysOfGoogleCloud Facilitator 
-###  🔭 Microsoft Learn Strudent Ambassador
+###  🔭 Microsoft Learn Student Ambassador
 ---
 <!--### 🌱 Github Stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=MightyPhoenix&count_private=true&show_icons=true&bg_color=315,48c6ef,6f86d6&title_color=ffffff&text_color=ffffff&icon_color=ee609c)-->
