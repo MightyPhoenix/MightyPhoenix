@@ -1,4 +1,4 @@
-# Hi there 👋 I am Agnibesh Mukherjee ✨
+# Hi there 👋✨
 #### 💬 An undergrad Computer Science Engineering student with experience in FullStack development on MERN stack.
 Love to participate in Hackathons, ✨Won✨ ACM-East India Hackathon 2020 (kolkata)
 
