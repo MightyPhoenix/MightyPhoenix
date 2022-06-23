@@ -1,6 +1,5 @@
 # Hi there 👋✨
-#### 💬 An undergrad Computer Science Engineering student with experience in FullStack development on MERN stack.
-Love to participate in Hackathons, ✨Won✨ ACM-East India Hackathon 2020 (kolkata)
+#### 💬 WeeWoo WeeWoo Engineering Webapps.
 
 <!-- <iframe width="100%" scrolling="no" style="overflow: hidden;pointer-events: none;" height="500px" src="https://www.agnibesh.dev" title="agnibesh.dev"/> -->
 <!--### 🌱 Github Stats
